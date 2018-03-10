@@ -1,4 +1,4 @@
-# adbPixelDeadScreen
+# Getting data off a pixel with a dead screen but USB debugging enabled
 How to get data off your Google Pixel with a deadscreen but debugging enabled on your phone
 
 note: I don't believe I needed to change the USB mode but if you do there's a handy link [here](https://android.stackexchange.com/questions/120026/how-do-i-change-from-ptp-to-mtp-mode-cannot-find-options-in-settings) on changing to MTP
